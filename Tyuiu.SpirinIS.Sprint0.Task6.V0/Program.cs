@@ -23,7 +23,7 @@ namespace Tyuiu.SpirinIS.Sprint0.Task6.V0
             //Пример циклической структуры находится в библиотеке классов в методе MultiplicationArray
             Console.WriteLine("Произведение элементов массива = " + DataService.MultiplicationArray(numsArray));
 
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
